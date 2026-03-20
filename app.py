@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from flask import Flask, render_template, request
 import pandas as pd
 import pickle
@@ -48,7 +48,6 @@ import os
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 10000))
-=======
 from flask import Flask, render_template, request
 import pandas as pd
 import pickle
