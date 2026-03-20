@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 flask
 pandas
 scikit-learn
 numpy
+=======
+flask
+pandas
+scikit-learn
+numpy
+>>>>>>> 2187f14c2a4320e818c05b7e14efd1bade44e1fa
 gunicorn
