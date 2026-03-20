@@ -1,6 +1,6 @@
-## House Price Prediction Web App
 
-🏠 House Price Prediction Web App
+
+## 🏠 House Price Prediction Web App
 
 A Machine Learning powered web application that predicts house prices based on various input features. The model is trained using regression algorithms and deployed as a web application using Flask.
 
