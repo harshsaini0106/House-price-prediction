@@ -12,7 +12,8 @@ The goal of this project is to demonstrate the end-to-end machine learning pipel
 Example:
 
 https://your-app-name.onrender.com
-📌 Features
+
+## 📌 Features
 
 ✔ Predict house prices based on input parameters
 ✔ User-friendly web interface
@@ -35,6 +36,7 @@ Model Evaluation
 Model Deployment using Flask
 
 ## 🛠️ Technologies Used
+
 Programming & Tools
 
 Python
@@ -72,7 +74,9 @@ House-Price-Prediction
 ├── static
 │     └── style.css
 └── README.md
+
 ## ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/house-price-prediction.git
 2️⃣ Install Dependencies
@@ -83,6 +87,7 @@ python app.py
 Then open in browser:
 
 http://127.0.0.1:5000
+
 ## 📊 Example Prediction Inputs
 
 Location
