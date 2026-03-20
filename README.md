@@ -6,7 +6,7 @@ A Machine Learning powered web application that predicts house prices based on v
 
 The goal of this project is to demonstrate the end-to-end machine learning pipeline including data preprocessing, model training, and web deployment.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 🔗 Add your deployed link here
 Example:
@@ -20,7 +20,7 @@ https://your-app-name.onrender.com
 ✔ Real-time predictions through a web application
 ✔ End-to-end ML workflow implementation
 
-🧠 Machine Learning Workflow
+## 🧠 Machine Learning Workflow
 
 Data Collection
 
@@ -34,7 +34,7 @@ Model Evaluation
 
 Model Deployment using Flask
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Programming & Tools
 
 Python
@@ -61,7 +61,7 @@ Deployment
 
 Render / GitHub
 
-📂 Project Structure
+## 📂 Project Structure
 House-Price-Prediction
 │
 ├── app.py
@@ -72,7 +72,7 @@ House-Price-Prediction
 ├── static
 │     └── style.css
 └── README.md
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/house-price-prediction.git
 2️⃣ Install Dependencies
@@ -83,7 +83,7 @@ python app.py
 Then open in browser:
 
 http://127.0.0.1:5000
-📊 Example Prediction Inputs
+## 📊 Example Prediction Inputs
 
 Location
 
@@ -97,7 +97,7 @@ Property age
 
 The trained model predicts the estimated house price based on these features.
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 Add better ML models
 
@@ -109,7 +109,7 @@ Deploy with Docker
 
 Create user login system
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Harsh Saini
 
