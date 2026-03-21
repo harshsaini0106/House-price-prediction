@@ -8,7 +8,7 @@ This project demonstrates the **complete machine learning workflow** including d
 
 ## 🚀 Live Demo
 
-🔗 https://house-price-prediction-1-xl5r.onrender.com/predict
+🔗 https://house-price-prediction-2-oxv1.onrender.com/
 
 ---
 
